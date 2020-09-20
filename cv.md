@@ -1,47 +1,47 @@
-# Алексей Зинович
-[Моя страничка в Вконтакте](https://vk.com/id_l.zinovich) | [GitHub](https://github.com/Lansoyt)
+# Alexey Zinovich
+[My page in Vkontakte](https://vk.com/id_l.zinovich) | [GitHub](https://github.com/Lansoyt)
 
-## Контактная информация
+## Contact Information
 -----------------------------------------------------------
 **Email:** aleksey.youngprog@gmail.com
 
-**Телефон:** +375336785732
+**Phone:** +375336785732
 
-**Дата рождения:** 13.10.2001
+**Date of Birth:** 13.10.2001
 
------------------------------------------------------------
+---------------------------------------------------------
 
-## В настоящее время
-Студент, занимаюсь спортом, читаю книги. Свободное время провожу активно. Люблю узнавать что-то новое и расширять свой кругозор.
-Легок в общении и хорошо работаю в команде.
+## Currently
+Student, go in for sports, read books. I spend my free time actively. I love to learn something new and expand my horizons.
+Easy to communicate and work well in a team.
 
-## Навыки 
-Умею работать в Excel, Word, PowerPoint. Хорошо знаю **HTML5**, **CSS3**, **JavaScript(ES6)** и **ООП**. Использую редакторе Visual Studio Code. 
-Изучал **SQL** и работал с **СУБД(MySQL Workbench)**. Работаю с GIT и GitHub.
+## Skills
+I can work in Excel, Word, PowerPoint. I know **HTML5**, **CSS3**, **JavaScript (ES6)** and **OOP** well. I'm using the Visual Studio Code editor.
+Studied **SQL** and worked with **DBMS (MySQL Workbench)**. I work with GIT and GitHub.
 
-## Опыт
-[Верстка странички Google](https://github.com/Lansoyt/g00gle)
+## Experience
+[Google Page Layout](https://github.com/Lansoyt/g00gle)
 
-[Простая игра на JS](https://github.com/Lansoyt/Simple-game-with-JS)
+[Simple JS game](https://github.com/Lansoyt/Simple-game-with-JS)
 
-[Простейшая смена цвета со времинем](https://github.com/Lansoyt/Clock-and-Color)
+[Simplest color change with time](https://github.com/Lansoyt/Clock-and-Color)
 
-**Прочитанные книги:**
+**The books that are read:**
 
-- Джон Дакетт "HTML и CSS. Разработка и дизайн веб-сайтов"
+- John Duckett "HTML and CSS. Website Development and Design"
 
-- Джон Дакетт "Javascript и jQuery. Интерактивная веб-разработка"
+- John Duckett "Javascript and jQuery. Interactive Web Development"
 
-- Marijn Haverbeke "Выразительный JavaScript"
+- Marijn Haverbeke "Expressive JavaScript"
 
-## Образование
-Студент Белорусского государственного университета информатики и радиоэлектроники (БГУИР). Прохожу The rolling scopes курс. 
+## Education
+Student of the Belarusian State University of Informatics and Radioelectronics (BSUIR). I'm taking The rolling scopes course.
 
-## Английский язык
-**Уровень: Pre-intermediate**
+## English language
+**Level: Pre-intermediate**
 
-- 8 лет обучения в школе
+- 8 years of schooling
 
-- 1 год обучения в университете
+- 1 year of university studies
 
-- Самообразование (статьи на английском и приложение "Simpler")
+- Self-education (articles in English and "Simpler" app)
